@@ -4,5 +4,14 @@
   "artist": "Nakamura Regura",
   "author": "",
   "cover": "https://lolicore-subs.com/wp-content/uploads/2025/04/Rinraku-no-Susu-me-Arabic-Cover-800x1120.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1743548069",
+      "groups": {
+        "Lolicore-Subs": "/proxy/api/mangadex/chapter/524cfe2a-b355-4c0d-80e6-c6617e2f1be7"
+      }
+    }
+  }
 }
